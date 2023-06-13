@@ -8,12 +8,12 @@ We thoroughly enjoyed the process of working on this project and gained valuable
 Requirements for the final project:
 The project should include a complex hierarchical system of classes, with no less than the following structure:
 
-       Base
-      ^    ^
-    D1      D2
-   ^  ^
- D11  D12
-
+          Base
+         ^    ^
+       D1      D2
+      ^  ^
+    D11  D12
+ 
 Note: The Base class is not derived from C# or any other predefined package.
 
 Management of the classes should be done using Polymorphism.
