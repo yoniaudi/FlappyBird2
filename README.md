@@ -1,4 +1,4 @@
-# flappybird2
+# FlappyBird2
 Final Project - Flappy Bird 2 - C#
 This is our final project for the first year of computer science, developed using object-oriented programming and Windows Forms with C#.
 Together with my friend Mor Moshe, we worked on this project as our final assignment.
